@@ -11,7 +11,7 @@ solutions.
 
 ## 💖 Ways to Support My Project
 
-Thank you so much visiting my profile! If you want to go a step further and support my open source work, buy me a coffee: 
+Thank you for visiting my profile! If you'd like to support my open-source work, feel free to help keep the project going:
 
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/rkarayigit) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/rkarayigit) 
 
