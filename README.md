@@ -1,4 +1,5 @@
-# Hello world, I'm Recep Karayiğit! 👋
+![](./src/header_.png)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&pause=1000&color=159AF7&multiline=true&repeat=false&width=1200&height=120&lines=Hello+world+%F0%9F%91%8B%2C+I'm+Recep+Karayi%C4%9Fit!;+Here's+a+few+things+you+might+need+to+know!)](https://git.io/typing-svg)
 
 ## 👨‍💻 About Me
 
