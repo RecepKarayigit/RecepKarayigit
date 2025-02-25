@@ -169,9 +169,7 @@ To support the project directly, feel free to open issues for icon suggestions, 
     height="300" alt="activity-graph graph" />
 </div>
 
-<div align="center">
-  ![](./profile-3d-contrib/profile-gitblock.svg)
-</div>
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
