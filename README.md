@@ -169,6 +169,10 @@ To support the project directly, feel free to open issues for icon suggestions, 
     height="300" alt="activity-graph graph" />
 </div>
 
+<div align="center">
+  ![](./profile-3d-contrib/profile-gitblock.svg)
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/RecepKarayigit/RecepKarayigit/output/github-snake-dark.svg" />
